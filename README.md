@@ -5,4 +5,5 @@
 
 |  Challenge      | Difficulty      | Solution        |
 | --------------- | --------------- | --------------- |
+[Cetvrta](https://open.kattis.com/problems/cetvrta) | 1.3 | [Python](./Python/cetvrta.py)
 [Cold-puter Science](https://open.kattis.com/problems/cold) | 1.2 | [Python](./Python/cold.py)
