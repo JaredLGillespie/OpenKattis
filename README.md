@@ -8,6 +8,7 @@
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | 1.3 | [Python](./Python/cetvrta.py)
 [Cold-puter Science](https://open.kattis.com/problems/cold) | 1.2 | [Python](./Python/cold.py)
 [Datum](https://open.kattis.com/problems/datum) | 1.3 | [Python](./Python/datum.py)
+[Dice Cup](https://open.kattis.com/problems/dicecup) | 1.3 | [Python](./Python/dicecup.py)
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | 1.3 | [Python](./Python/icpcawards.py)
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | 1.3 | [Python](./Python/judgingmoose.py)
 [Zamka](https://open.kattis.com/problems/zamka) | 1.3 | [Python](./Python/zamka.py)
