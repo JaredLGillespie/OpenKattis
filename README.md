@@ -14,4 +14,5 @@
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | 1.3 | [Python](./Python/icpcawards.py)
 [Ladder](https://open.kattis.com/problems/ladder) | 1.3 | [Python](./Python/ladder.py)
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | 1.3 | [Python](./Python/judgingmoose.py)
+[Nine](https://open.kattis.com/problems/nine) | 3.2 | [Python](./Python/nine.py)
 [Zamka](https://open.kattis.com/problems/zamka) | 1.3 | [Python](./Python/zamka.py)
