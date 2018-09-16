@@ -7,6 +7,7 @@
 | --------------- | --------------- | --------------- |
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | 1.3 | [Python](./Python/cetvrta.py)
 [Cold-puter Science](https://open.kattis.com/problems/cold) | 1.2 | [Python](./Python/cold.py)
+[Combination Lock](https://open.kattis.com/contests/akxgwd/problems/combinationlock) | 2.5 | [Python](./Python/combinationlock.py)
 [Datum](https://open.kattis.com/problems/datum) | 1.3 | [Python](./Python/datum.py)
 [Dice Cup](https://open.kattis.com/problems/dicecup) | 1.3 | [Python](./Python/dicecup.py)
 [Flip Five](https://open.kattis.com/problems/flipfive) | 3.0 | [Python](./Python/flipfive.py)
