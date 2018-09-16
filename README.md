@@ -6,6 +6,7 @@
 |  Challenge      | Difficulty      | Solution        |
 | --------------- | --------------- | --------------- |
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | 1.3 | [Python](./Python/cetvrta.py)
+[Coast](https://open.kattis.com/problems/coast) | 3.0 | [Python](./Python/coast.py)
 [Cold-puter Science](https://open.kattis.com/problems/cold) | 1.2 | [Python](./Python/cold.py)
 [Combination Lock](https://open.kattis.com/contests/akxgwd/problems/combinationlock) | 2.5 | [Python](./Python/combinationlock.py)
 [Dart Scores](https://open.kattis.com/problems/dartscores) | 2.7 | [Python](./Python/dartscores.py)
