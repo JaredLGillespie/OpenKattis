@@ -18,4 +18,5 @@
 [Ladder](https://open.kattis.com/problems/ladder) | 1.3 | [Python](./Python/ladder.py)
 [Nine](https://open.kattis.com/problems/nine) | 3.2 | [Python](./Python/nine.py)
 [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | 3.4 | [Python](./Python/rectanglesurrounding.py)
+[Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | 1.9 | [Python](./Python/sumoftheothers.py)
 [Zamka](https://open.kattis.com/problems/zamka) | 1.3 | [Python](./Python/zamka.py)
