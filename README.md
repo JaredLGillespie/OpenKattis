@@ -16,6 +16,7 @@
 [Flip Five](https://open.kattis.com/problems/flipfive) | 3.0 | [Python](./Python/flipfive.py)
 [Grass Seed Inc](https://open.kattis.com/problems/grassseed) | 1.3 | [Python](./Python/grassseed.py)
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | 1.3 | [Python](./Python/icpcawards.py)
+[Integer Lists](https://open.kattis.com/problems/integerlists) | 4.1 | [Python](./Python/integerlists.py)
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | 1.3 | [Python](./Python/judgingmoose.py)
 [Ladder](https://open.kattis.com/problems/ladder) | 1.3 | [Python](./Python/ladder.py)
 [Nine](https://open.kattis.com/problems/nine) | 3.2 | [Python](./Python/nine.py)
