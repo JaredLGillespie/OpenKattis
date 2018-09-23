@@ -30,4 +30,5 @@
 [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | 1.9 | [Python](./Python/sumoftheothers.py)
 [Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion) | 2.2 | [Python](./Python/temperatureconfusion.py)
 [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | 3.4 | [Python](./Python/rectanglesurrounding.py)
+[Thesaurus](https://open.kattis.com/problems/thesaurus) | 4.3 | [Python](./Python/thesaurus.py)
 [Zamka](https://open.kattis.com/problems/zamka) | 1.3 | [Python](./Python/zamka.py)
