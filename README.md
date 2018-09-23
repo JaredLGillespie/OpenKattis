@@ -17,6 +17,7 @@
 [Datum](https://open.kattis.com/problems/datum) | 1.3 | [Python](./Python/datum.py)
 [Dice Cup](https://open.kattis.com/problems/dicecup) | 1.3 | [Python](./Python/dicecup.py)
 [Flip Five](https://open.kattis.com/problems/flipfive) | 3.0 | [Python](./Python/flipfive.py)
+[GlitchBot](https://open.kattis.com/problems/glitchbot) | 1.8 | [Python](./Python/glitchbot.py)
 [Grass Seed Inc](https://open.kattis.com/problems/grassseed) | 1.3 | [Python](./Python/grassseed.py)
 [Hello World!](https://open.kattis.com/problems/hello) | 1.2 | [Python](./Python/hello.py)
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | 1.3 | [Python](./Python/icpcawards.py)
