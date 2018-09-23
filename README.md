@@ -26,6 +26,7 @@
 [Ladder](https://open.kattis.com/problems/ladder) | 1.3 | [Python](./Python/ladder.py)
 [Maximum Rent](https://open.kattis.com/problems/maximumrent) | 3.4 | [Python](./Python/maximumrent.py)
 [Nine](https://open.kattis.com/problems/nine) | 3.2 | [Python](./Python/nine.py)
+[Odd Gnome](https://open.kattis.com/problems/oddgnome) | 1.7 | [Python](./Python/odd-gnome.py)
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | 1.3 | [Python](./Python/reversebinary.py)
 [Stacking Cups](https://open.kattis.com/problems/cups) | 1.4 | [Python](./Python/cups.py)
 [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | 1.9 | [Python](./Python/sumoftheothers.py)
