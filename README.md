@@ -42,6 +42,7 @@
 [Tetris](https://open.kattis.com/problems/tetris) | 1.9 | [Python](./Python/tetris.py)
 [T9 Spelling](https://open.kattis.com/problems/t9spelling) | 1.9 | [Python](./Python/t9spelling.py)
 [Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion) | 2.2 | [Python](./Python/temperatureconfusion.py)
+[Time Travelling Temperatures](https://open.kattis.com/problems/temperature) | 2.1 | [Python](./Python/temperature.py)
 [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | 3.4 | [Python](./Python/rectanglesurrounding.py)
 [Thesaurus](https://open.kattis.com/problems/thesaurus) | 4.3 | [Python](./Python/thesaurus.py)
 [ToLower](https://open.kattis.com/problems/tolower) | 1.7 | [Python](./Python/tolower.py)
