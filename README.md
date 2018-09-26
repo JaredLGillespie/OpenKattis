@@ -32,6 +32,7 @@
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | 1.3 | [Python](./Python/reversebinary.py)
 [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | 2.2 | [Python](./Python/sidewayssorting.py)
 [Simon Says](https://open.kattis.com/problems/simonsays) | 1.7 | [Python](./Python/simonsays.py)
+[Splat](https://open.kattis.com/problems/splat) | 2.1 | [Python](./Python/splat.py)
 [Square Pegs](https://open.kattis.com/problems/squarepegs) | 3.3 | [Python](./Python/squarepegs.py)
 [Stacking Cups](https://open.kattis.com/problems/cups) | 1.4 | [Python](./Python/cups.py)
 [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | 1.9 | [Python](./Python/sumoftheothers.py)
