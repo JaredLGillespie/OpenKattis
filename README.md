@@ -35,6 +35,7 @@
 [Splat](https://open.kattis.com/problems/splat) | 2.1 | [Python](./Python/splat.py)
 [Square Pegs](https://open.kattis.com/problems/squarepegs) | 3.3 | [Python](./Python/squarepegs.py)
 [Stacking Cups](https://open.kattis.com/problems/cups) | 1.4 | [Python](./Python/cups.py)
+[Stuck in a Time Loop](https://open.kattis.com/problems/timeloop) | 1.3 | [Python](./Python/timeloop.py)
 [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | 1.9 | [Python](./Python/sumoftheothers.py)
 [Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion) | 2.2 | [Python](./Python/temperatureconfusion.py)
 [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | 3.4 | [Python](./Python/rectanglesurrounding.py)
