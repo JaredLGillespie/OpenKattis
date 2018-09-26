@@ -38,6 +38,7 @@
 [Stuck in a Time Loop](https://open.kattis.com/problems/timeloop) | 1.3 | [Python](./Python/timeloop.py)
 [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | 1.9 | [Python](./Python/sumoftheothers.py)
 [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | 1.6 | [Python](./Python/synchronizinglists.py)
+[Take Two Stones](https://open.kattis.com/problems/twostones) | 1.3 | [Python](./Python/twostones.py)
 [T9 Spelling](https://open.kattis.com/problems/t9spelling) | 1.9 | [Python](./Python/t9spelling.py)
 [Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion) | 2.2 | [Python](./Python/temperatureconfusion.py)
 [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | 3.4 | [Python](./Python/rectanglesurrounding.py)
