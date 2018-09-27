@@ -5,6 +5,7 @@
 
 |  Challenge      | Difficulty      | Solution        |
 | --------------- | --------------- | --------------- |
+[All Different Directions](https://open.kattis.com/problems/alldifferentdirections) | 2.6 | [Python](./Python/alldifferentdirections.py)
 [Battle Simulation](https://open.kattis.com/problems/battlesimulation) | 2.7 | [Python](./Python/battlesimulation.py)
 [Best Relay Team](https://open.kattis.com/problems/bestrelayteam) | 2.4 | [Python](./Python/bestrelayteam.py)
 [Big Truck](https://open.kattis.com/problems/bigtruck) | 2.8 | [Python](./Python/bigtruck.py)
