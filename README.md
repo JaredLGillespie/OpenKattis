@@ -41,6 +41,7 @@
 [Stacking Cups](https://open.kattis.com/problems/cups) | 1.4 | [Python](./Python/cups.py)
 [Stuck in a Time Loop](https://open.kattis.com/problems/timeloop) | 1.3 | [Python](./Python/timeloop.py)
 [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | 1.9 | [Python](./Python/sumoftheothers.py)
+[Swap to Sort](https://open.kattis.com/problems/swaptosort) | 4.2 | [Python](./Python/swaptosort.py)
 [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | 1.6 | [Python](./Python/synchronizinglists.py)
 [Take Two Stones](https://open.kattis.com/problems/twostones) | 1.3 | [Python](./Python/twostones.py)
 [Tetris](https://open.kattis.com/problems/tetris) | 1.9 | [Python](./Python/tetris.py)
