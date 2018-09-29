@@ -35,6 +35,7 @@
 [Maximum Rent](https://open.kattis.com/problems/maximumrent) | 3.4 | [Python](./Python/maximumrent.py)
 [Nine](https://open.kattis.com/problems/nine) | 3.2 | [Python](./Python/nine.py)
 [Odd Gnome](https://open.kattis.com/problems/oddgnome) | 1.7 | [Python](./Python/oddgnome.py)
+[Pet](https://open.kattis.com/problems/pet) | 1.3 | [Python](./Python/pet.py)
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | 1.3 | [Python](./Python/reversebinary.py)
 [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | 2.2 | [Python](./Python/sidewayssorting.py)
 [Simon Says](https://open.kattis.com/problems/simonsays) | 1.7 | [Python](./Python/simonsays.py)
