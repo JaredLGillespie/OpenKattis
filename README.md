@@ -13,6 +13,7 @@
 [Bounding Robots](https://open.kattis.com/problems/boundingrobots) | 1.6 | [Python](./Python/boundingrobots.py)
 [Carrots](https://open.kattis.com/problems/carrots) | 1.2 | [Python](./Python/carrots.py)
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | 1.3 | [Python](./Python/cetvrta.py)
+[Checkmate In One](https://open.kattis.com/problems/checkmateinone) | 5.2 | [Python](./Python/checkmateinone.py)
 [Coast](https://open.kattis.com/problems/coast) | 3.0 | [Python](./Python/coast.py)
 [Cold-puter Science](https://open.kattis.com/problems/cold) | 1.2 | [Python](./Python/cold.py)
 [Combination Lock](https://open.kattis.com/contests/akxgwd/problems/combinationlock) | 2.5 | [Python](./Python/combinationlock.py)
