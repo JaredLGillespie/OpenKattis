@@ -22,6 +22,7 @@
 [Dart Scores](https://open.kattis.com/problems/dartscores) | 2.7 | [Python](./Python/dartscores.py)
 [Datum](https://open.kattis.com/problems/datum) | 1.3 | [Python](./Python/datum.py)
 [Dice Cup](https://open.kattis.com/problems/dicecup) | 1.3 | [Python](./Python/dicecup.py)
+[Erase](https://open.kattis.com/problems/erase) | 1.6 | [Python](./Python/erase.py)
 [Flip Five](https://open.kattis.com/problems/flipfive) | 3.0 | [Python](./Python/flipfive.py)
 [GlitchBot](https://open.kattis.com/problems/glitchbot) | 1.8 | [Python](./Python/glitchbot.py)
 [Grass Seed Inc](https://open.kattis.com/problems/grassseed) | 1.3 | [Python](./Python/grassseed.py)
