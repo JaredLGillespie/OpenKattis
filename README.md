@@ -39,6 +39,7 @@
 [Odd Gnome](https://open.kattis.com/problems/oddgnome) | 1.7 | [Python](./Python/oddgnome.py)
 [Pet](https://open.kattis.com/problems/pet) | 1.3 | [Python](./Python/pet.py)
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | 1.3 | [Python](./Python/reversebinary.py)
+[Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | 1.5 | [Python](./Python/runlengthencodingrun.py)
 [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | 2.2 | [Python](./Python/sidewayssorting.py)
 [Simon Says](https://open.kattis.com/problems/simonsays) | 1.7 | [Python](./Python/simonsays.py)
 [Splat](https://open.kattis.com/problems/splat) | 2.1 | [Python](./Python/splat.py)
