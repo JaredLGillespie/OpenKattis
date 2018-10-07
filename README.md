@@ -35,6 +35,7 @@
 [Judging Troubles](https://open.kattis.com/problems/judging) | 3.0 | [Python](./Python/judging.py)
 [Ladder](https://open.kattis.com/problems/ladder) | 1.3 | [Python](./Python/ladder.py)
 [Maximum Rent](https://open.kattis.com/problems/maximumrent) | 3.4 | [Python](./Python/maximumrent.py)
+[Monitoring Ski Paths](https://open.kattis.com/problems/monitoringskipaths) | 9.3 | [Python](./Python/monitoringskipaths.py)
 [Nine](https://open.kattis.com/problems/nine) | 3.2 | [Python](./Python/nine.py)
 [Odd Gnome](https://open.kattis.com/problems/oddgnome) | 1.7 | [Python](./Python/oddgnome.py)
 [Pet](https://open.kattis.com/problems/pet) | 1.3 | [Python](./Python/pet.py)
