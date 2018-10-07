@@ -20,6 +20,7 @@
 [Compound Words](https://open.kattis.com/problems/compoundwords) | 1.7 | [Python](./Python/compoundwords.py)
 [Cookie Cutters](https://open.kattis.com/problems/cookiecutter) | 2.7 | [Python](./Python/cookiecutter.py)
 [Dart Scores](https://open.kattis.com/problems/dartscores) | 2.7 | [Python](./Python/dartscores.py)
+[Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | 1.9 | [Python](./Python/dasblinkenlights.py)
 [Datum](https://open.kattis.com/problems/datum) | 1.3 | [Python](./Python/datum.py)
 [Dice Cup](https://open.kattis.com/problems/dicecup) | 1.3 | [Python](./Python/dicecup.py)
 [Erase](https://open.kattis.com/problems/erase) | 1.6 | [Python](./Python/erase.py)
