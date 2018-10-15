@@ -6,6 +6,7 @@
 |  Challenge      | Difficulty      | Solution        |
 | --------------- | --------------- | --------------- |
 [All Different Directions](https://open.kattis.com/problems/alldifferentdirections) | 2.6 | [Python](./Python/alldifferentdirections.py)
+[Baby Bites](https://open.kattis.com/problems/babybites) | 1.4 | [Python](./Python/babybites.py)
 [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam) | 1.9 | [Python](./Python/baconeggsandspam.py)
 [Battle Simulation](https://open.kattis.com/problems/battlesimulation) | 2.7 | [Python](./Python/battlesimulation.py)
 [Best Relay Team](https://open.kattis.com/problems/bestrelayteam) | 2.4 | [Python](./Python/bestrelayteam.py)
