@@ -33,7 +33,7 @@
 [Hello World!](https://open.kattis.com/problems/hello) | 1.2 | [Python](./Python/hello.py)
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | 1.3 | [Python](./Python/icpcawards.py)
 [Integer Lists](https://open.kattis.com/problems/integerlists) | 4.1 | [Python](./Python/integerlists.py)
-[Intergalactic Bidding](https://open.kattis.com/problems/intergalacticbidding) | 4.6 | [Python2](./Python/intergalacticbidding.py)
+[Intergalactic Bidding](https://open.kattis.com/problems/intergalacticbidding) | 4.6 | [Python](./Python/intergalacticbidding.py)
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | 1.3 | [Python](./Python/judgingmoose.py)
 [Judging Troubles](https://open.kattis.com/problems/judging) | 3.0 | [Python](./Python/judging.py)
 [Ladder](https://open.kattis.com/problems/ladder) | 1.3 | [Python](./Python/ladder.py)
