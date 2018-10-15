@@ -31,6 +31,7 @@
 [Grass Seed Inc](https://open.kattis.com/problems/grassseed) | 1.3 | [Python](./Python/grassseed.py)
 [Greeting Card](https://open.kattis.com/problems/greetingcard) | 5.3 | [Python](./Python/greetingcard.py)
 [Hello World!](https://open.kattis.com/problems/hello) | 1.2 | [Python](./Python/hello.py)
+[House Lawn](https://open.kattis.com/problems/houselawn) | 3.2 | [Python](./Python/houselawn.py)
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | 1.3 | [Python](./Python/icpcawards.py)
 [Integer Lists](https://open.kattis.com/problems/integerlists) | 4.1 | [Python](./Python/integerlists.py)
 [Intergalactic Bidding](https://open.kattis.com/problems/intergalacticbidding) | 4.6 | [Python](./Python/intergalacticbidding.py)
