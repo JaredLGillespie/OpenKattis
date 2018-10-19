@@ -63,4 +63,5 @@
 [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | 3.4 | [Python](./Python/rectanglesurrounding.py)
 [Thesaurus](https://open.kattis.com/problems/thesaurus) | 4.3 | [Python](./Python/thesaurus.py)
 [ToLower](https://open.kattis.com/problems/tolower) | 1.7 | [Python](./Python/tolower.py)
+[Unlock Pattern](https://open.kattis.com/problems/unlockpattern) | 1.8 | [Python](./Python/unlockpattern.py)
 [Zamka](https://open.kattis.com/problems/zamka) | 1.3 | [Python](./Python/zamka.py)
