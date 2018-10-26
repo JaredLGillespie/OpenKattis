@@ -27,6 +27,7 @@
 [Dice Cup](https://open.kattis.com/problems/dicecup) | 1.3 | [Python](./Python/dicecup.py)
 [Erase](https://open.kattis.com/problems/erase) | 1.6 | [Python](./Python/erase.py)
 [Flip Five](https://open.kattis.com/problems/flipfive) | 3.0 | [Python](./Python/flipfive.py)
+[Frosh Week](https://open.kattis.com/problems/froshweek2) | 2.6 | [Python](./Python/froshweek2.py)
 [GlitchBot](https://open.kattis.com/problems/glitchbot) | 1.8 | [Python](./Python/glitchbot.py)
 [Grass Seed Inc](https://open.kattis.com/problems/grassseed) | 1.3 | [Python](./Python/grassseed.py)
 [Grade Curving](https://open.kattis.com/problems/gradecurving) | 4.9 | [Python](./Python/gradecurving.py)
