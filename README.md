@@ -42,6 +42,7 @@
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | 1.3 | [Python](./Python/judgingmoose.py)
 [Judging Troubles](https://open.kattis.com/problems/judging) | 3.0 | [Python](./Python/judging.py)
 [Ladder](https://open.kattis.com/problems/ladder) | 1.3 | [Python](./Python/ladder.py)
+[Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | 2.0 | [Python](./Python/luhnchecksum.py)
 [Maximum Rent](https://open.kattis.com/problems/maximumrent) | 3.4 | [Python](./Python/maximumrent.py)
 [Monitoring Ski Paths](https://open.kattis.com/problems/monitoringskipaths) | 9.3 | [Python](./Python/monitoringskipaths.py)
 [Nine](https://open.kattis.com/problems/nine) | 3.2 | [Python](./Python/nine.py)
