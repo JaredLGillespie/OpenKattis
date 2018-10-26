@@ -32,6 +32,7 @@
 [Grade Curving](https://open.kattis.com/problems/gradecurving) | 4.9 | [Python](./Python/gradecurving.py)
 [Greeting Card](https://open.kattis.com/problems/greetingcard) | 5.3 | [Python](./Python/greetingcard.py)
 [Hello World!](https://open.kattis.com/problems/hello) | 1.2 | [Python](./Python/hello.py)
+[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | 1.3 | [Python](./Python/hissingmicrophone.py)
 [House Lawn](https://open.kattis.com/problems/houselawn) | 3.2 | [Python](./Python/houselawn.py)
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | 1.3 | [Python](./Python/icpcawards.py)
 [Integer Lists](https://open.kattis.com/problems/integerlists) | 4.1 | [Python](./Python/integerlists.py)
