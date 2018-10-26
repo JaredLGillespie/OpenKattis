@@ -32,6 +32,7 @@
 [Grass Seed Inc](https://open.kattis.com/problems/grassseed) | 1.3 | [Python](./Python/grassseed.py)
 [Grade Curving](https://open.kattis.com/problems/gradecurving) | 4.9 | [Python](./Python/gradecurving.py)
 [Greeting Card](https://open.kattis.com/problems/greetingcard) | 5.3 | [Python](./Python/greetingcard.py)
+[Heart Rate](https://open.kattis.com/problems/heartrate) | 1.4 | [Python](./Python/heartrate.py)
 [Hello World!](https://open.kattis.com/problems/hello) | 1.2 | [Python](./Python/hello.py)
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | 1.3 | [Python](./Python/hissingmicrophone.py)
 [House Lawn](https://open.kattis.com/problems/houselawn) | 3.2 | [Python](./Python/houselawn.py)
