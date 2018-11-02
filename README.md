@@ -51,6 +51,7 @@
 [Nine](https://open.kattis.com/problems/nine) | 3.2 | [Python](./Python/nine.py)
 [No Duplicates](https://open.kattis.com/problems/nodup) | 1.5 | [Python](./Python/nodup.py)
 [Odd Gnome](https://open.kattis.com/problems/oddgnome) | 1.7 | [Python](./Python/oddgnome.py)
+[Orderly Class](https://open.kattis.com/problems/orderlyclass) | 3.8 | [Python](./Python/orderlyclass.py)
 [Palindromic Password](https://open.kattis.com/problems/palindromicpassword) | 3.4 | [Python](./Python/palindromicpassword.py)
 [Pet](https://open.kattis.com/problems/pet) | 1.3 | [Python](./Python/pet.py)
 [Reverse Rot](https://open.kattis.com/problems/reverserot) | 1.5 | [Python](./Python/reverserot.py)
