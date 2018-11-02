@@ -38,6 +38,7 @@
 [Heart Rate](https://open.kattis.com/problems/heartrate) | 1.4 | [Python](./Python/heartrate.py)
 [Hello World!](https://open.kattis.com/problems/hello) | 1.2 | [Python](./Python/hello.py)
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | 1.3 | [Python](./Python/hissingmicrophone.py)
+[Honey Heist](https://open.kattis.com/problems/honeyheist) | 3.6 | [Python](./Python/honeyheist.py)
 [House Lawn](https://open.kattis.com/problems/houselawn) | 3.2 | [Python](./Python/houselawn.py)
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | 1.3 | [Python](./Python/icpcawards.py)
 [Integer Lists](https://open.kattis.com/problems/integerlists) | 4.1 | [Python](./Python/integerlists.py)
