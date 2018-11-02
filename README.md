@@ -8,6 +8,7 @@
 [All Different Directions](https://open.kattis.com/problems/alldifferentdirections) | 2.6 | [Python](./Python/alldifferentdirections.py)
 [Baby Bites](https://open.kattis.com/problems/babybites) | 1.4 | [Python](./Python/babybites.py)
 [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam) | 1.9 | [Python](./Python/baconeggsandspam.py)
+[Batter Up](https://open.kattis.com/problems/batterup) | 1.3 | [Python](./Python/batterup.py)
 [Battle Simulation](https://open.kattis.com/problems/battlesimulation) | 2.7 | [Python](./Python/battlesimulation.py)
 [Best Relay Team](https://open.kattis.com/problems/bestrelayteam) | 2.4 | [Python](./Python/bestrelayteam.py)
 [Big Truck](https://open.kattis.com/problems/bigtruck) | 2.8 | [Python](./Python/bigtruck.py)
