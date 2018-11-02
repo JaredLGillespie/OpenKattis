@@ -27,6 +27,7 @@
 [Datum](https://open.kattis.com/problems/datum) | 1.3 | [Python](./Python/datum.py)
 [Dice Cup](https://open.kattis.com/problems/dicecup) | 1.3 | [Python](./Python/dicecup.py)
 [Erase](https://open.kattis.com/problems/erase) | 1.6 | [Python](./Python/erase.py)
+[Faulty Robot](https://open.kattis.com/problems/faultyrobot) | 4.4 | [Python](./Python/faultyrobot.py)
 [Flip Five](https://open.kattis.com/problems/flipfive) | 3.0 | [Python](./Python/flipfive.py)
 [Flow Free](https://open.kattis.com/problems/flowfree) | 4.1 | [Python](./Python/flowfree.py)
 [Frosh Week](https://open.kattis.com/problems/froshweek2) | 2.6 | [Python](./Python/froshweek2.py)
