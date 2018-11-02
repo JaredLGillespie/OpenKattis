@@ -49,6 +49,7 @@
 [Maximum Rent](https://open.kattis.com/problems/maximumrent) | 3.4 | [Python](./Python/maximumrent.py)
 [Monitoring Ski Paths](https://open.kattis.com/problems/monitoringskipaths) | 9.3 | [Python](./Python/monitoringskipaths.py)
 [Nine](https://open.kattis.com/problems/nine) | 3.2 | [Python](./Python/nine.py)
+[No Duplicates](https://open.kattis.com/problems/nodup) | 1.5 | [Python](./Python/nodup.py)
 [Odd Gnome](https://open.kattis.com/problems/oddgnome) | 1.7 | [Python](./Python/oddgnome.py)
 [Palindromic Password](https://open.kattis.com/problems/palindromicpassword) | 3.4 | [Python](./Python/palindromicpassword.py)
 [Pet](https://open.kattis.com/problems/pet) | 1.3 | [Python](./Python/pet.py)
