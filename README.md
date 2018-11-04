@@ -32,6 +32,7 @@
 [Flow Free](https://open.kattis.com/problems/flowfree) | 4.1 | [Python](./Python/flowfree.py)
 [Frosh Week](https://open.kattis.com/problems/froshweek2) | 2.6 | [Python](./Python/froshweek2.py)
 [GlitchBot](https://open.kattis.com/problems/glitchbot) | 1.8 | [Python](./Python/glitchbot.py)
+[Goat Rope](https://open.kattis.com/problems/goatrope) | 1.6 | [Python](./Python/goatrope.py)
 [Grass Seed Inc](https://open.kattis.com/problems/grassseed) | 1.3 | [Python](./Python/grassseed.py)
 [Grade Curving](https://open.kattis.com/problems/gradecurving) | 4.9 | [Python](./Python/gradecurving.py)
 [Greeting Card](https://open.kattis.com/problems/greetingcard) | 5.3 | [Python](./Python/greetingcard.py)
