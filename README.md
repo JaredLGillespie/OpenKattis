@@ -49,6 +49,7 @@
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | 2.0 | [Python](./Python/luhnchecksum.py)
 [Maximum Rent](https://open.kattis.com/problems/maximumrent) | 3.4 | [Python](./Python/maximumrent.py)
 [Monitoring Ski Paths](https://open.kattis.com/problems/monitoringskipaths) | 9.3 | [Python](./Python/monitoringskipaths.py)
+[Multiplication Game](https://open.kattis.com/problems/multiplicationgame) | 4.1 | [Python](./Python/multiplicationgame.py)
 [Nine](https://open.kattis.com/problems/nine) | 3.2 | [Python](./Python/nine.py)
 [Nine Knights](https://open.kattis.com/problems/nineknights) | 1.7 | [Python](./Python/nineknights.py)
 [No Duplicates](https://open.kattis.com/problems/nodup) | 1.5 | [Python](./Python/nodup.py)
