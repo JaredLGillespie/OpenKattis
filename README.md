@@ -37,6 +37,7 @@
 [Grade Curving](https://open.kattis.com/problems/gradecurving) | 4.9 | [Python](./Python/gradecurving.py)
 [Greeting Card](https://open.kattis.com/problems/greetingcard) | 5.3 | [Python](./Python/greetingcard.py)
 [Heart Rate](https://open.kattis.com/problems/heartrate) | 1.4 | [Python](./Python/heartrate.py)
+[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | 1.5 | [Python](./Python/heirsdilemma.py)
 [Hello World!](https://open.kattis.com/problems/hello) | 1.2 | [Python](./Python/hello.py)
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | 1.3 | [Python](./Python/hissingmicrophone.py)
 [Honey Heist](https://open.kattis.com/problems/honeyheist) | 3.6 | [Python](./Python/honeyheist.py)
