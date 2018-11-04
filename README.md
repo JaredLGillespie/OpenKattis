@@ -43,6 +43,7 @@
 [Honey Heist](https://open.kattis.com/problems/honeyheist) | 3.6 | [Python](./Python/honeyheist.py)
 [House Lawn](https://open.kattis.com/problems/houselawn) | 3.2 | [Python](./Python/houselawn.py)
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | 1.3 | [Python](./Python/icpcawards.py)
+[Illiteracy](https://open.kattis.com/problems/illiteracy) | 4.0 | [Python2](./Python/illiteracy.py)
 [Integer Lists](https://open.kattis.com/problems/integerlists) | 4.1 | [Python](./Python/integerlists.py)
 [Intergalactic Bidding](https://open.kattis.com/problems/intergalacticbidding) | 4.6 | [Python](./Python/intergalacticbidding.py)
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | 1.3 | [Python](./Python/judgingmoose.py)
